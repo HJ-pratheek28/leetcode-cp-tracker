@@ -9,6 +9,12 @@ A structured workspace for building algorithmic intuition, recording why an appr
 
 ---
 
+## Start here: complete curriculum
+
+**Follow the ordered roadmap first:** [Complete LeetCode + Competitive Programming Curriculum](docs/complete-curriculum.md)
+
+It includes a staged sequence of problems, topic gates, advanced algorithms, and a parallel Codeforces rating progression. Use the topic trackers below to record your progress; use the curriculum file to decide what to solve next.
+
 ## Operating principles
 
 - **Reason before code.** Identify constraints, brute force, bottleneck, and the property that removes it.
