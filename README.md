@@ -9,6 +9,24 @@ A structured workspace for building algorithmic intuition, recording why an appr
 
 ---
 
+## Solve problems in topic branches
+
+Each topic has its own branch with an ordered problem queue, direct LeetCode links, status tracking, and a solution-file naming convention. Switch to a branch to work through that track.
+
+| Order | Topic branch | Problems |
+|---:|---|---:|
+| 1 | [Arrays & Hashing](https://github.com/HJ-pratheek28/leetcode-cp-tracker/tree/solve/arrays-hashing) | 15 |
+| 2 | [Two Pointers & Sliding Window](https://github.com/HJ-pratheek28/leetcode-cp-tracker/tree/solve/two-pointers-sliding-window) | 12 |
+| 3 | [Binary Search, Sorting & Selection](https://github.com/HJ-pratheek28/leetcode-cp-tracker/tree/solve/binary-search-sorting) | 12 |
+| 4 | [Linked Lists, Stacks & Queues](https://github.com/HJ-pratheek28/leetcode-cp-tracker/tree/solve/linked-lists-stacks) | 12 |
+| 5 | [Trees, Heaps & Tries](https://github.com/HJ-pratheek28/leetcode-cp-tracker/tree/solve/trees-heaps-tries) | 12 |
+| 6 | [Graphs & Union-Find](https://github.com/HJ-pratheek28/leetcode-cp-tracker/tree/solve/graphs) | 14 |
+| 7 | [Dynamic Programming](https://github.com/HJ-pratheek28/leetcode-cp-tracker/tree/solve/dynamic-programming) | 16 |
+| 8 | [Greedy, Backtracking & Bit Manipulation](https://github.com/HJ-pratheek28/leetcode-cp-tracker/tree/solve/greedy-backtracking-bitwise) | 14 |
+| 9 | [Advanced Competitive Programming](https://github.com/HJ-pratheek28/leetcode-cp-tracker/tree/solve/advanced-cp) | 10 |
+
+**Important:** these are separate branches, so their queue files do not appear on `main` until you merge them. The queues currently contain 117 curated problems, not every problem on LeetCode. Use the official problem links to open statements; write your own solution files in your branch.
+
 ## Start here: complete curriculum
 
 **Follow the ordered roadmap first:** [Complete LeetCode + Competitive Programming Curriculum](docs/complete-curriculum.md)
